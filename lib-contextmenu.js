@@ -115,4 +115,3 @@ class ContextMenu {
 		this.elem.blur()
 	}
 }
-
